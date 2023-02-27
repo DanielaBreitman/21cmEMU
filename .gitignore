@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Emulator
+py21cmemu/21cmEMU/
+*.zip
+
 # Distribution / packaging
 .Python
 build/
